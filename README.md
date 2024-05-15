@@ -1,4 +1,5 @@
 Encryption of data
+
 I use VeraCrypt full disk encryption for all of my drives and partitions, not just my OS. VeraCrypt adds enhanced security to the algorithms used for system and partitions encryption making it immune to new developments in attacks.
 VeraCrypt also solves many vulnerabilities and security issues found in TrueCrypt, the old industry standard for full disk encryption.
 
@@ -9,6 +10,7 @@ Steganography involves hiding sensitive information (which may be encrypted) ins
 
 
 Virtual Private Networks
+
 I always recommend using a good VPN, even for normal every day browsing. View more information on how VPNs work and why using one is important here.
 View my other thread for my personal VPN suggestions. Or view this large spreadsheet that I put up on Google Docs (note that I did not compile this data, source is at the bottom of the spreadsheet).
 And here is a good guide on making VPNs more secure.
@@ -17,7 +19,9 @@ Random Note: I strongly recommend using wired connections for your internet conn
 
 
 Browser Choice and Security
+
 First things first, I will never recommend using Google Chrome and nothing any of you can say will change my mind on this.
+
 
 Firefox is fast, reliable, open source and respects your privacy.
 Tor Browser is your choice if you need an extra layer of anonymity. It's a modified version of Firefox, it comes with pre-installed privacy add-ons, encryption and an advanced proxy.
