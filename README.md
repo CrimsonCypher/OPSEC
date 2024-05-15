@@ -70,70 +70,91 @@ CounterMail
 NeoMailbox
 
 Email Clients:
+
 Mozilla Thunderbird - Mozilla Thunderbird is a free, open source, cross-platform email, news, and chat client developed by the Mozilla Foundation. Thunderbird is an email, newsgroup, news feed, and chat (XMPP, IRC, Twitter) client.
 MailPile.is (BETA) - A modern, fast web-mail client with user-friendly encryption and privacy features.
 
 Privacy Email Tools
+
 gpg4usb - A very easy to use and small portable editor to encrypt and decrypt any text-message or -file. For Windows and Linux.
 Mailvelope - A browser extension that enables the exchange of encrypted emails following the OpenPGP encryption standard.
 Enigmail - A security extension to Thunderbird and Seamonkey. It enables you to write and receive email messages signed and/or encrypted with the OpenPGP standard.
 TorBirdy - This extension configures Thunderbird to make connections over the Tor anonymity network.
 Email Privacy Tester - This tool will send an Email to your address and perform privacy related tests.
 
-Email Alternatives
+Email Alternatives:
+
 Bitmessage
+
 Bitmessage is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. It uses strong authentication which means that the sender of a message cannot be spoofed, and it aims to hide "non-content" data.
 
 I2P-Bote
+
 I2P-Bote is a fully decentralized and distributed email system. It supports different identities and does not expose email headers. Currently (2015), it is still in beta version and can be accessed via its web application interface or IMAP and SMTP. All bote-mails are transparently end-to-end encrypted and, optionally, signed by the sender's private key.
 
 RetroShare
+
 Retroshare creates encrypted connections to your friends. Nobody can spy on you. Retroshare is completely decentralized. This means there are no central servers. It is entirely Open-Source and free. There are no costs, no ads and no Terms of Service.
 
 
 Privacy Respecting Search Engines
+
 If you are currently using a search engines like Google, Bing or Yahoo you should pick an alternative here.
 
 DuckDuckGo [Tor Link]
+
 The search engine that doesn't track you. Some of DuckDuckGo's code is free software hosted at GitHub, but the core is proprietary. The company is based in the USA.
 
 Disconnect Search
+
 Search privately using your favorite search engine: Google, Yahoo, Bing and DuckDuckGo are available for selection. It masks your IP address, cookies, and other personal info.
 
 MetaGer
+
 A metasearch engine, which is based in Germany. It focuses on protecting the user's privacy. Supported by 24 own crawlers of small scale web search engines.
 
 ixquick.com
+
 Returns the top ten results from multiple search engines. It uses a "Star System" to rank its results by awarding one star for every result that has been returned from a search engine. Based in the USA and the Netherlands.
 
 
 Password Managers
+
 If you are currently using a password manager software like 1Password, LastPass, Roboform or iCloud Keychain you should pick an alternative here.
 
 Master Password - Cross-platform
+
 Master Password is based on an ingenious password generation algorithm that guarantees your passwords can never be lost. Its passwords aren't stored: they are generated on-demand from your name, the site and your master password. No syncing, backups or internet access needed.
 
 KeePass / KeePassX - Local
+
 KeePass is a free open source password manager, which helps you to manage your passwords in a secure way. All passwords in one database, which is locked with one master key or a key file. The databases are encrypted using the best and most secure encryption algorithms currently known: AES and Twofish. See also: KeePassX.
 
 Encryptr - Cloud Based - (SpiderOak)
+
 Encryptr is simple and easy to use. It stores your sensitive data like passwords, credit card data, PINs, or access codes, in the cloud. However, because it was built on the zero knowledge Crypton framework, Encryptr ensures that only the user has the ability to access or read the confidential information.
 
 
 Self Contained Networks
+
 I2P Anonymous Network
+
 The Invisible Internet Project (I2P) is a computer network layer that allows applications to send messages to each other pseudonymously and securely. Uses include anonymous Web surfing, chatting, blogging and file transfers. The software that implements this layer is called an I2P router and a computer running I2P is called an I2P node. The software is free and open source and is published under multiple licenses.
 
 GNUnet Framework
+
 GNUnet is a free software framework for decentralized, peer-to-peer networking and an official GNU package. The framework offers link encryption, peer discovery, resource allocation, communication over many transports (such as tcp, udp, http, https, wlan and bluetooth) and various basic peer-to-peer algorithms for routing, multicast and network size estimation.
 
 The Freenet Project
+
 Freenet is a peer-to-peer platform for censorship-resistant communication. It uses a decentralized distributed data store to keep and deliver information, and has a suite of free software for publishing and communicating on the Web without fear of censorship. Both Freenet and some of its associated tools were originally designed by Ian Clarke, who defined Freenet's goal as providing freedom of speech on the Internet with strong anonymity protection.
 
 Tor Project
+
 Provides anonymity to websites and other servers. Servers configured to receive connections only through Tor are called hidden services.
 
 RetroShare
+
 Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.
 
 
