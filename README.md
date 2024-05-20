@@ -226,61 +226,60 @@ Textsecure
 Cryptocat
 
 
-Improve your security with these Firefox add ons
+## Improve your security with these Firefox add-ons
 
-[Stop tracking with "Disconnect"(https://disconnect.me/)]
-Block Ads with "uBlock Origin"
-Hinder Browser Fingerprinting with "Random Agent Spoofer"
-Automatically Delete Cookies with "Self-Destructing Cookies"
-    Encryption with "HTTPS Everywhere"
-    Block Content Delivery Networks with "Decentraleyes"
-    Stop cross-site requests with uMatrix
-    Be in total control with "NoScript Security Suite"
-    Content control with "Policeman"
+* Stop tracking with [Disconnect](https://disconnect.me/)
+* Block Ads with [uBlock Origin](https://github.com/gorhill/uBlock)
+* Hinder Browser Fingerprinting with [Random Agent Spoofer](https://addons.mozilla.org/en-US/firefox/addon/random-agent-spoofer/)
+* Automatically Delete Cookies with [Self-Destructing Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/)
+* Encryption with [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+* Block Content Delivery Networks with [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+* Stop cross-site requests with uMatrix
+* Be in total control with [NoScript Security Suite](https://noscript.net/)
+* Content control with [Policeman](https://addons.mozilla.org/en-US/firefox/addon/policeman/)
 
-Email Privacy Conscious Email Providers
+## Email Privacy Conscious Email Providers
 
-    ProtonMail
-    CounterMail
-    NeoMailbox
+* [ProtonMail](https://protonmail.com/)
+* [CounterMail](https://countermail.com/)
+* [NeoMailbox](https://www.neomailbox.com/)
 
-Email Clients
+## Email Clients
 
-    Mozilla Thunderbird
-    MailPile.is (BETA)
+* [Mozilla Thunderbird](https://www.thunderbird.net/)
+* [MailPile.is (BETA)](https://www.mailpile.is/)
 
-Privacy Email Tools
+## Privacy Email Tools
 
-    gpg4usb
-    Mailvelope
-    Enigmail
-    TorBirdy
-    Email Privacy Tester
+* [gpg4usb](https://gpg4usb.org/)
+* [Mailvelope](https://mailvelope.com/)
+* [Enigmail](https://enigmail.net/)
+* [TorBirdy](https://torbirdy.github.io/)
+* [Email Privacy Tester](https://emailprivacytester.com/)
 
-Email Alternatives
+## Email Alternatives
 
-    Bitmessage
-    I2P-Bote
-    RetroShare
+* [Bitmessage](https://bitmessage.org/wiki/Main_Page)
+* [I2P-Bote](https://i2p-bote.gitlab.io/)
+* [RetroShare](https://retroshare.net/)
 
-Privacy Respecting Search Engines
+## Privacy Respecting Search Engines
 
-    DuckDuckGo
-    Disconnect Search
-    MetaGer
-    ixquick.com
+* [DuckDuckGo](https://duckduckgo.com/)
+* [Disconnect Search](https://disconnect.me/search)
+* [MetaGer](https://metager.org/)
+* [ixquick.com](https://ixquick.com/)
 
-Password Managers
+## Password Managers
 
-    Master Password
-    KeePass / KeePassX
-    Encryptr
+* [Master Password](https://masterpasswordapp.com/)
+* [KeePass / KeePassX](https://keepass.info/)
+* [Encryptr](https://www.spideroak.com/encryptr/)
 
-Self Contained Networks
+## Self Contained Networks
 
-    I2P Anonymous Network
-    GNUnet Framework
-    The Freenet Project
-    Tor Project
-    RetroShare
-
+* [I2P Anonymous Network](https://geti2p.net/)
+* [GNUnet Framework](https://gnunet.org/)
+* [The Freenet Project](https://freenetproject.org/)
+* [Tor Project](https://www.torproject.org/)
+* [RetroShare](https://retroshare.net/)
