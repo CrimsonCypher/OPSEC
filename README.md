@@ -228,7 +228,7 @@ Cryptocat
 
 Improve your security with these Firefox add ons
 
-    Stop tracking with "Disconnect"
+    [Stop tracking with "Disconnect"(https://disconnect.me/)]
     Block Ads with "uBlock Origin"
     Hinder Browser Fingerprinting with "Random Agent Spoofer"
     Automatically Delete Cookies with "Self-Destructing Cookies"
