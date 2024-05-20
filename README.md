@@ -224,3 +224,63 @@ Surespot
 Jitsi
 Textsecure
 Cryptocat
+
+
+Improve your security with these Firefox add ons
+
+    Stop tracking with "Disconnect"
+    Block Ads with "uBlock Origin"
+    Hinder Browser Fingerprinting with "Random Agent Spoofer"
+    Automatically Delete Cookies with "Self-Destructing Cookies"
+    Encryption with "HTTPS Everywhere"
+    Block Content Delivery Networks with "Decentraleyes"
+    Stop cross-site requests with uMatrix
+    Be in total control with "NoScript Security Suite"
+    Content control with "Policeman"
+
+Email Privacy Conscious Email Providers
+
+    ProtonMail
+    CounterMail
+    NeoMailbox
+
+Email Clients
+
+    Mozilla Thunderbird
+    MailPile.is (BETA)
+
+Privacy Email Tools
+
+    gpg4usb
+    Mailvelope
+    Enigmail
+    TorBirdy
+    Email Privacy Tester
+
+Email Alternatives
+
+    Bitmessage
+    I2P-Bote
+    RetroShare
+
+Privacy Respecting Search Engines
+
+    DuckDuckGo
+    Disconnect Search
+    MetaGer
+    ixquick.com
+
+Password Managers
+
+    Master Password
+    KeePass / KeePassX
+    Encryptr
+
+Self Contained Networks
+
+    I2P Anonymous Network
+    GNUnet Framework
+    The Freenet Project
+    Tor Project
+    RetroShare
+
