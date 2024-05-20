@@ -1,4 +1,4 @@
-Encryption of data
+## Encryption of data
 
 I use VeraCrypt full disk encryption for all of my drives and partitions, not just my OS. VeraCrypt adds enhanced security to the algorithms used for system and partitions encryption making it immune to new developments in attacks.
 VeraCrypt also solves many vulnerabilities and security issues found in TrueCrypt, the old industry standard for full disk encryption.
@@ -9,7 +9,7 @@ Mandatory key disclosure laws require individuals to turn over encryption keys t
 Steganography involves hiding sensitive information (which may be encrypted) inside of ordinary data (for example, encrypting an image file and then hiding it in an audio file). With plausible deniability, data is encrypted in a way that prevents an adversary from being able to prove that the information they are after exists (for example, one password may decrypt benign data and another password, used on the same file, could decrypt sensitive data).
 
 
-Virtual Private Networks
+## Virtual Private Networks
 
 I always recommend using a good VPN, even for normal every day browsing. View more information on how VPNs work and why using one is important here.
 View my other thread for my personal VPN suggestions. Or view this large spreadsheet that I put up on Google Docs (note that I did not compile this data, source is at the bottom of the spreadsheet).
@@ -18,7 +18,7 @@ And here is a good guide on making VPNs more secure.
 Random Note: I strongly recommend using wired connections for your internet connection at home as opposed to wireless. There have been many cases of government snooping by them breaking into networks and collecting wireless data. A classic example is the arrest of Iserdo, the creator of the Butterfly Botnet (Mariposa). Ultimately his arrest and conviction was solidified when Law Enforcement broke into his Wireless Network and monitored him, gathering all the evidence necessary.
 
 
-Browser Choice and Security
+## Browser Choice and Security
 
 First things first, I will never recommend using Google Chrome and nothing any of you can say will change my mind on this.
 
@@ -35,7 +35,7 @@ For Google Chrome users: There is no known working solution, only a plugin that 
 For Firefox users: (Click to View)
 Test for WebRTC leaks here.
 
-Improve your security with these Firefox add ons
+## Improve your security with these Firefox add ons
 Stop tracking with "Disconnect"
 Founded in 2011 by former Google engineers and a consumer-and privacy-rights attorney. The addon is open source and loads the pages you go to 27% faster and stops tracking by 2,000+ third-party sites. It also keeps your searches private.
 
@@ -63,7 +63,7 @@ Highly customizable plugin to selectively allow Javascript, Java, and Flash to r
 Content control with "Policeman"
 This addon has purpose similar to RequestPolicy and NoScript. It's different from the former in that it supports rules based on content type. For example, you can allow images and styles, but not scripts and frames for some sites. It can also be set up to act as a blacklist.
 
-Email
+## Email
 Privacy Conscious Email Providers
 ProtonMail
 CounterMail
@@ -97,7 +97,7 @@ RetroShare
 Retroshare creates encrypted connections to your friends. Nobody can spy on you. Retroshare is completely decentralized. This means there are no central servers. It is entirely Open-Source and free. There are no costs, no ads and no Terms of Service.
 
 
-Privacy Respecting Search Engines
+## Privacy Respecting Search Engines
 
 If you are currently using a search engines like Google, Bing or Yahoo you should pick an alternative here.
 
@@ -118,7 +118,7 @@ ixquick.com
 Returns the top ten results from multiple search engines. It uses a "Star System" to rank its results by awarding one star for every result that has been returned from a search engine. Based in the USA and the Netherlands.
 
 
-Password Managers
+## Password Managers
 
 If you are currently using a password manager software like 1Password, LastPass, Roboform or iCloud Keychain you should pick an alternative here.
 
@@ -135,7 +135,7 @@ Encryptr - Cloud Based - (SpiderOak)
 Encryptr is simple and easy to use. It stores your sensitive data like passwords, credit card data, PINs, or access codes, in the cloud. However, because it was built on the zero knowledge Crypton framework, Encryptr ensures that only the user has the ability to access or read the confidential information.
 
 
-Self Contained Networks
+## Self Contained Networks
 
 I2P Anonymous Network
 
@@ -175,7 +175,8 @@ Namecoin
 A decentralized DNS open source information registration and transfer system based on the Bitcoin cryptocurrency.
 
 
-Encrypted Cloud Storage Services
+## Encrypted Cloud Storage Services
+
 If you are currently using a Cloud Storage Services like Dropbox, Google Drive, Microsoft OneDrive or Apple iCloud you should pick an alternative here.
 Remember to manually encrypt your files before uploading them to the cloud!
 
@@ -206,7 +207,7 @@ Related Information
 Cryptomator - Free client-side AES encryption for your cloud files. Open source software: No backdoors, no registration.
 
 
-Text and Video Messaging
+## Text and Video Messaging
 Secure your text messages, Instant Messaging and Chat
 
 Pidgin + OTR (Windows)
@@ -218,6 +219,7 @@ Adium (OSX)
 Adium is a free and open source messaging client for Mac that also lets you talk to friends on lots of different networks. Even better, Addium comes with OTR support built-in!
 
 TorChat
+Signal
 ChatSecure
 SilentCircle
 Surespot
